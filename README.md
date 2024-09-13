@@ -3,8 +3,8 @@
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>Papunet Game Projects:</b>
-  - [Tikka](https://github.com/Tikka2D-Papunet/Papunet-Tikka2D)
-  - [Etana](https://github.com/VilleK88/Papunet-Etana)
+  - [Tikka](https://github.com/Tikka2D-Papunet/Papunet-Tikka2D)<i> Lead programmer and project lead</i>
+  - [Etana](https://github.com/VilleK88/Papunet-Etana)<i> Lead programmer</i>
 - <b>Taitotalo Game Projects:</b>
-  - [Lalli the Heathen](https://github.com/VilleK88/TopdownGame)
-  - [FPS ongoing](https://github.com/VilleK88/FPS)</i>
+  - [Lalli the Heathen](https://github.com/VilleK88/TopdownGame)<i> Lead programmer and project lead</i>
+  - [FPS ongoing](https://github.com/VilleK88/FPS)<i> Lead programmer and project lead</i>
