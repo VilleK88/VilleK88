@@ -7,4 +7,4 @@
   - [Etana](https://github.com/VilleK88/Papunet-Etana)<i> Lead programmer</i>
 - <b>Taitotalo Game Projects:</b>
   - [Lalli the Heathen](https://github.com/VilleK88/TopdownGame)<i> Lead programmer and project lead</i>
-  - [FPS ongoing](https://github.com/VilleK88/FPS)<i> Lead programmer and project lead</i>
+  - [FPS Project](https://github.com/VilleK88/FPS)<i> Lead programmer and project lead</i>
