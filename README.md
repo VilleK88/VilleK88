@@ -48,4 +48,3 @@
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ville-karppinen88/)
-- 📧 villekarppinen88@gmail.com
