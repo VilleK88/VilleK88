@@ -38,8 +38,7 @@
 
 ### 🕹️ Metropolia Projects
 
-**Lentopeli**
-
+**Lentopeli**  
 ✈️ Real-time Flight Tracker Game (WIP)
 🌐 Web-based flight game using real-time weather data and map tracking with Leaflet.js.
 🎮 Features: Real-time plane movement, weather data integration
