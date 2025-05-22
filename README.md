@@ -43,6 +43,7 @@
 🌐 Web-based flight game using real-time weather data and map tracking with Leaflet.js  
 🎮 Features: Real-time plane movement, weather data integration  
 🧩 Role: Sole developer – fullstack development with Flask backend and JS frontend  
+🔗 [GitHub Repo]([https://github.com/VilleK88/Lentopeli]  
 
 ---
 
