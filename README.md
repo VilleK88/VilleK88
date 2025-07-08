@@ -8,6 +8,13 @@
 
 ## 🚀 Highlighted Game Projects
 
+### 🎮 Puolukka Games & Jobs Projects
+**Kalatuspeli**
+🎣 Top-down job fishing game set in recession-era Finland.
+🎮 Features: Ruthless job hunting in a harsh economic climate
+🧑‍💻 Role: Sole Unity programmer (not responsible for database implementation)
+🔗 [GitHub Repo](https://github.com/VilleK88/kalastuspeli)
+
 ### 🧠 Papunet – Accessibility-focused Games
 **Tikka**  
 🎯 *Darts game with automatic/manual aiming – designed for players with cognitive challenges.*  
