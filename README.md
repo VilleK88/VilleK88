@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ville Karppinen
 
-🎮 Software & Game Developer with a passion for gameplay programming, accessibility, AI systems, and embedded technologies.  
+🎮 Software engineer with a passion for gameplay programming, accessibility, AI systems, and embedded technologies.  
 🎓 First-year ICT engineering student at Metropolia | Game development graduate from Taitotalo.  
 🔧 Interested in combining low-level programming with real-world applications, especially in the field of IoT.  
 
