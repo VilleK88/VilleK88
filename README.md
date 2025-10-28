@@ -59,9 +59,9 @@
 
 ## 🧰 Skills
 
-- **Languages:** C#, Python, JavaScript, SQL  
+- **Languages:** C, C#, Python, JavaScript, SQL  
 - **Game Engines:** Unity  
-- **Tools & Tech:** Git, MongoDB, Blender, Flask  
+- **Tools & Tech:** Git, MongoDB, Blender
 - **Soft Skills:** Leadership, accessibility design, project management
 
 ---
