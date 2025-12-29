@@ -1,9 +1,14 @@
 # 👋 Hi, I'm Ville Karppinen
 
-🎮 Software engineer with a passion for gameplay programming, accessibility, AI systems, and embedded technologies.  
-🎓 First-year ICT engineering student at Metropolia | Game development graduate from Taitotalo.  
-🔧 Interested in combining low-level programming with real-world applications, especially in the field of IoT.  
-
+Embedded and IoT-focused software developer with hands-on experience in  
+firmware development, state machine–driven systems, and device-level programming.  
+  
+Bachelor of Engineering student in Information and Communications Technology  
+(Smart IoT Systems – Embedded IoT Devices) at Metropolia University of Applied Sciences.  
+  
+Interested in embedded software, IoT devices, sensor-based systems,  
+and reliable edge-level architectures.  
+  
 ---
 
 ## 🚀 Highlighted Game Projects
