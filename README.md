@@ -1,76 +1,93 @@
-# 👋 Hi, I'm Ville Karppinen
-
+# 👋 Hi, I'm Ville Karppinen  
+  
 Embedded and IoT-focused software developer with hands-on experience in  
-firmware development, state machine–driven systems, and device-level programming.  
+**firmware development, state machine–driven systems, and device-level programming**.  
   
 Bachelor of Engineering student in Information and Communications Technology  
-(Smart IoT Systems – Embedded IoT Devices) at Metropolia University of Applied Sciences.  
+(**Smart IoT Systems – Embedded IoT Devices**) at Metropolia University of Applied Sciences.  
   
-Interested in embedded software, IoT devices, sensor-based systems,  
-and reliable edge-level architectures.  
+Interested in **embedded software, IoT devices, sensor-based systems**,  
+and reliable **edge-level architectures**.  
   
----
-
-## 🚀 Highlighted Game Projects
-
-### 🎮 Puolukka Games & Jobs Projects
-**Kalatuspeli**
-🎣 Top-down job fishing game set in recession-era Finland  
-🎮 Features: Ruthless job hunting in a harsh economic climate  
-🧑‍💻 Role: Sole Unity programmer (not responsible for database implementation)  
-🔗 [GitHub Repo](https://github.com/VilleK88/kalastuspeli)  
-
----
-
-### 🧠 Papunet – Accessibility-focused Games
+---  
+  
+## 🔧 Embedded & IoT Projects  
+  
+### Pill Dispenser – Embedded Systems Programming  
+- Solo embedded systems project using **Raspberry Pi Pico**  
+- State machine–driven firmware design for automated pill dispensing  
+- **EEPROM-based persistent state** with robust power-loss recovery  
+- Stepper motor control with **optical and piezo sensors**  
+- **LoRaWAN communication** (OTAA, Class A) with offline fallback  
+- Full responsibility: architecture design, firmware development, testing, and documentation  
+  
+---  
+  
+## 🌐 Software & Data Projects  
+  
+### ✈️ Flight Tracker Application (WIP)  
+- Web-based application developed using **Python and JavaScript**  
+- **Flask backend exposing REST API endpoints**  
+- **MariaDB relational database** for persistent data storage and state management  
+- Integrated external APIs for real-time weather and flight-related data  
+- Real-time map-based visualization implemented with **Leaflet.js**  
+- Sole developer – backend, database, and frontend logic  
+  
+---  
+  
+## 🎮 Selected Game Projects (Software Engineering Focus)  
+  
+### Puolukka Games & Jobs – Kalastuspeli  
+- Sole Unity programmer  
+- Core gameplay systems, input handling, state management, and client-side architecture  
+- **Mapbox integration with locally stored map data**  
+- Eliminated runtime external API calls to improve reliability and performance  
+🔗 https://github.com/VilleK88/kalastuspeli  
+  
+---  
+  
+### Papunet – Accessibility-focused Games  
+  
 **Tikka**  
-🎯 *Darts game with automatic/manual aiming – designed for players with cognitive challenges.*  
-🧩 *Role:* Project lead & sole programmer  
-🔗 [GitHub Repo](https://github.com/Tikka2D-Papunet/Papunet-Tikka2D)
-
+- Accessibility-focused darts game with automatic/manual aiming  
+- Project lead & sole programmer  
+🔗 https://github.com/Tikka2D-Papunet/Papunet-Tikka2D  
+  
 **Etana**  
-🐌 *Avoid obstacles and manage your snail’s breathing – balance simplicity and challenge.*  
-🧩 *Role:* Sole programmer  
-🔗 [GitHub Repo](https://github.com/VilleK88/Papunet-Etana)
-
----
-
-### 🕹️ Taitotalo Projects – Fast-paced Action & Storytelling
-
+- Accessibility-focused game emphasizing simplified interaction and feedback  
+- Sole programmer  
+🔗 https://github.com/VilleK88/Papunet-Etana  
+  
+---  
+  
+### Taitotalo Projects  
+  
 **Lalli the Heathen**  
-⚔️ *Top-down action game set in 12th-century Finland during the Swedish crusades.*  
-🎮 *Features:* Melee combat, skill trees, enemy AI, inventory  
-🧩 *Role:* Project lead & sole programmer  
-🔗 [GitHub Repo](https://github.com/VilleK88/TopdownGame)
-
+- Top-down action game with melee combat, skill systems, enemy AI, and inventory  
+- Project lead & sole programmer  
+🔗 https://github.com/VilleK88/TopdownGame  
+  
 **FPS Project**  
-🔫 *Wolfenstein-inspired Unity FPS with stealth, inventory, and AI.*  
-🎮 *Features:* Drag-and-drop inventory, 3D FOV vision system  
-🧩 *Role:* Project lead & sole programmer  
-🔗 [GitHub Repo](https://github.com/VilleK88/FPS)
-
----
-
-### 🕹️ Metropolia Projects
-
-**Lentopeli**  
-✈️ Real-time Flight Tracker Game (WIP)  
-🌐 Web-based flight game using real-time weather data and map tracking with Leaflet.js  
-🎮 Features: Real-time plane movement, weather data integration  
-🧩 Role: Sole developer – fullstack development with Flask backend and JS frontend  
-🔗 [GitHub Repo](https://github.com/VilleK88/Lentopeli)
-
----
-
-## 🧰 Skills
-
-- **Languages:** C, C#, Python, JavaScript, SQL  
-- **Game Engines:** Unity  
-- **Tools & Tech:** Git, MongoDB, Blender
-- **Soft Skills:** Leadership, accessibility design, project management
-
----
-
-## 📫 Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ville-karppinen88/)
+- Wolfenstein-inspired Unity FPS  
+- Drag-and-drop inventory system and 3D field-of-view AI  
+- Project lead & sole programmer  
+🔗 https://github.com/VilleK88/FPS  
+  
+---  
+  
+## 🛠️ Technical Skills  
+  
+- **Embedded Systems & Firmware Development**  
+- **C**  
+- IoT Systems & Device Communication  
+- Python  
+- SQL (MariaDB)  
+- JavaScript  
+- REST APIs  
+- Git  
+  
+---  
+  
+## 📫 Contact  
+  
+- 💼 LinkedIn: https://www.linkedin.com/in/ville-karppinen88/  
