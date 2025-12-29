@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ville Karppinen  
   
 Embedded and IoT-focused software developer with hands-on experience in  
-**firmware development, state machine–driven systems, and device-level programming**.  
+**firmware development, state machine-driven systems, and device-level programming**.  
   
 Bachelor of Engineering student in Information and Communications Technology  
 (**Smart IoT Systems - Embedded IoT Devices**) at Metropolia University of Applied Sciences.  
@@ -13,7 +13,7 @@ and reliable **edge-level architectures**.
   
 ## 🔧 Embedded & IoT Projects  
   
-### Pill Dispenser – Embedded Systems Programming  
+### Pill Dispenser - Embedded Systems Programming  
 - Solo embedded systems project using **Raspberry Pi Pico**  
 - State machine–driven firmware design for automated pill dispensing  
 - **EEPROM-based persistent state** with robust power-loss recovery  
@@ -37,7 +37,7 @@ and reliable **edge-level architectures**.
   
 ## 🎮 Selected Game Projects (Software Engineering Focus)  
   
-### Puolukka Games & Jobs – Kalastuspeli  
+### Puolukka Games & Jobs - Kalastuspeli  
 - Sole Unity programmer  
 - Core gameplay systems, input handling, state management, and client-side architecture  
 - **Mapbox integration with locally stored map data**  
