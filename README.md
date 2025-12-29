@@ -4,7 +4,7 @@ Embedded and IoT-focused software developer with hands-on experience in
 **firmware development, state machine–driven systems, and device-level programming**.  
   
 Bachelor of Engineering student in Information and Communications Technology  
-(**Smart IoT Systems – Embedded IoT Devices**) at Metropolia University of Applied Sciences.  
+(**Smart IoT Systems - Embedded IoT Devices**) at Metropolia University of Applied Sciences.  
   
 Interested in **embedded software, IoT devices, sensor-based systems**,  
 and reliable **edge-level architectures**.  
