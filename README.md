@@ -19,7 +19,7 @@ and reliable **edge-level architectures**.
 - **EEPROM-based persistent state** with robust power-loss recovery  
 - Stepper motor control with **optical and piezo sensors**  
 - **LoRaWAN communication** (OTAA, Class A) with offline fallback  
-- Full responsibility: architecture design, firmware development, testing, and documentation
+- Full responsibility: architecture design, firmware development, testing, and documentation  
 🔗 https://github.com/VilleK88/Pill_dispenser  
   
 ---  
@@ -32,7 +32,7 @@ and reliable **edge-level architectures**.
 - **MariaDB relational database** for persistent data storage and state management  
 - Integrated external APIs for real-time weather and flight-related data  
 - Real-time map-based visualization implemented with **Leaflet.js**  
-- Sole developer – backend, database, and frontend logic
+- Sole developer – backend, database, and frontend logic  
 🔗 https://github.com/VilleK88/Lentopeli  
   
 ---  
