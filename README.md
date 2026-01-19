@@ -80,7 +80,7 @@ and reliable **edge-level architectures**.
 ## 🛠️ Technical Skills  
   
 - **Embedded Systems & Firmware Development**  
-- **C**  
+- **C/C++**  
 - IoT Systems & Device Communication  
 - Python  
 - SQL (MariaDB)  
