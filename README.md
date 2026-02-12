@@ -64,16 +64,16 @@ and reliable **edge-level architectures**.
   
 ### Taitotalo Projects  
   
-**Lalli the Heathen**  
-- Top-down action game with melee combat, skill systems, enemy AI, and inventory  
-- Project lead & sole programmer  
-🔗 https://github.com/VilleK88/TopdownGame  
-  
 **FPS Project**  
 - Wolfenstein-inspired Unity FPS  
 - Drag-and-drop inventory system and 3D field-of-view AI  
 - Project lead & sole programmer  
-🔗 https://github.com/VilleK88/FPS  
+🔗 https://github.com/VilleK88/FPS
+
+**Lalli the Heathen**  
+- Top-down action game with melee combat, skill systems, enemy AI, and inventory  
+- Project lead & sole programmer  
+🔗 https://github.com/VilleK88/TopdownGame  
   
 ---  
   
