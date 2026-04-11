@@ -91,7 +91,8 @@ Other repositories on this profile are older and do not reflect my current capab
 - Embedded Systems & Firmware Development  
 - C / C++  
 - IoT Systems  
-- Python  
+- Python
+- C#  
 - SQL (MariaDB)  
 - JavaScript  
 - REST APIs  
