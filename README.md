@@ -16,7 +16,7 @@ and reliable **edge-level architectures**.
 The following projects best represent my current skill level.  
 Other repositories on this profile are older and do not reflect my current capabilities.
 
-### 🚪 Garage Door Opener (Embedded Systems)
+### 🚪 Garage Door Opener - Object-Oriented Programming in IoT Devices
 - Embedded system for controlling a motorized garage door
 - Calibration using limit switches and rotary encoder
 - State machine–based control logic
