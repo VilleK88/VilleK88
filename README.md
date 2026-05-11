@@ -59,7 +59,13 @@ https://github.com/VilleK88/Pill_dispenser
 - External API integration (weather, flight data)  
 - Map visualization with Leaflet.js  
 - Full-stack development  
-🔗 https://github.com/VilleK88/Lentopeli  
+
+## 🎥 Video Demonstration
+- LinkedIn Demo Video:
+  https://www.linkedin.com/posts/ville-karppinen88_metropolia-python-javascript-activity-7325791389856763905-uriv/
+
+## 📂 GitHub Repository
+https://github.com/VilleK88/Lentopeli
 
 ---
 
@@ -68,7 +74,13 @@ https://github.com/VilleK88/Pill_dispenser
 ### Kalastuspeli (Unity)
 - Gameplay systems, input handling, state management  
 - Mapbox integration with local data  
-🔗 https://github.com/VilleK88/kalastuspeli  
+
+## 🎥 Video Demonstration
+- LinkedIn Demo Video:
+  https://www.linkedin.com/posts/ville-karppinen88_unity3d-gamedev-indiedev-activity-7355571731182346240-1j4p/
+
+## 📂 GitHub Repository
+https://github.com/VilleK88/kalastuspeli
 
 ---
 
