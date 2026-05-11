@@ -26,10 +26,10 @@ Other repositories on this profile are older and do not reflect my current capab
 
 ## 🎥 Video Demonstration
 - LinkedIn Demo Video:
-  [https://www.linkedin.com/posts/ville-karppinen88_...](https://www.linkedin.com/posts/ville-karppinen88_embeddedsystems-iot-firmwaredevelopment-activity-7432710753884774401-Jqsd/)
+  https://www.linkedin.com/posts/ville-karppinen88_embeddedsystems-iot-firmwaredevelopment-activity-7432710753884774401-Jqsd/
 
 ## 📂 GitHub Repository
-[https://github.com/VilleK88/Pill_dispenser](https://github.com/VilleK88/Garage_door_opener)
+https://github.com/VilleK88/Garage_door_opener
 
 ---
 
@@ -43,7 +43,7 @@ Other repositories on this profile are older and do not reflect my current capab
 
  ## 🎥 Video Demonstration
 - LinkedIn Demo Video:
-  [https://www.linkedin.com/posts/ville-karppinen88_...](https://www.linkedin.com/posts/ville-karppinen88_embeddedsystems-iot-firmware-activity-7411660499031056384-VxOi/)
+  https://www.linkedin.com/posts/ville-karppinen88_embeddedsystems-iot-firmware-activity-7411660499031056384-VxOi/
 
 ## 📂 GitHub Repository
 https://github.com/VilleK88/Pill_dispenser
