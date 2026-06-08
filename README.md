@@ -37,7 +37,7 @@ The following projects best represent my current embedded and software engineeri
   https://www.youtube.com/watch?v=mCygo8TPgko
 
 * AuthManager Demo Part 3:
-  https://youtu.be/nUsTUqX486s
+  https://youtu.be/WlxUNe7n1tI
 
 ## 📂 GitHub Repository
 
