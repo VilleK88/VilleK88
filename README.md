@@ -18,20 +18,34 @@ The following projects best represent my current embedded and software engineeri
 
 ---
 
-### 🔐 AuthManager Portfolio
+### 🔐 AuthManager – Authentication & Licensing Platform
 
-* Reusable authentication and licensing platform built with modern C++
-* Designed for desktop applications, websites, and future commercial software projects
-* Qt/QML desktop client with C++ Crow backend
+* Modern C++ authentication and licensing platform
+* Qt/QML desktop client with Crow backend
 * MariaDB persistence for users, sessions, licenses, and audit logs
-* Email verification and login confirmation workflow
+* Email verification and login confirmation workflows
 * License activation and active license management
-* Audit logging and IP-based security lockouts
+* IP-based security lockouts and audit logging
 * 32 automated tests across 8 GoogleTest test suites
 
+## 🎥 Video Demonstrations
+
+* AuthManager Demo Part 1:
+  https://www.youtube.com/watch?v=LGSJsXLO1sQ
+
+* AuthManager Demo Part 2:
+  https://www.youtube.com/watch?v=mCygo8TPgko
+
+* AuthManager Demo Part 3:
+  https://youtu.be/nUsTUqX486s
+
+## 📂 GitHub Repository
+
+Portfolio Repository:
 https://github.com/VilleK88/AuthManager-Portfolio
 
-* * *
+---
+
 
 ### 🚪 Garage Door Opener – Object-Oriented Programming in IoT Devices
 
