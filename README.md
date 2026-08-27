@@ -18,6 +18,32 @@ The following projects best represent my current embedded and software engineeri
 
 ---
 
+### 🦌 Smart Wildlife Monitoring System – OpenMV N6
+
+- Embedded wildlife monitoring system built with the OpenMV N6
+- PAG7936 RGB camera and FLIR Lepton 3.5 thermal camera
+- Thermal frame-difference motion detection
+- 5-second circular RGB and thermal pre-event buffers in SDRAM
+- Dual-camera MJPEG event recording
+- Asynchronous MicroPython `asyncio` architecture
+- MJPEG timing and AVI index correction
+- FLIR Lepton Flat-Field Correction (FFC) handling
+- Persistent logging, storage management, and hardware watchdog recovery
+- Asynchronous HTTPS uploads using presigned Amazon S3 URLs
+- AWS Lambda backend with Amazon Rekognition wildlife detection
+- Extended full-system and embedded stability testing
+
+## 🎥 Video Demonstration
+
+- Outdoor Test – PAG7936 RGB & FLIR Lepton:
+  https://www.youtube.com/watch?v=YeA9baXi2Uw
+
+## 📂 GitHub Repository
+
+https://github.com/VilleK88/IoT-Project
+
+---
+
 ### 🔐 AuthManager – Authentication & Licensing Platform
 
 * Modern C++ authentication and licensing platform
